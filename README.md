@@ -6,9 +6,11 @@ This assignment is the back end for an e-commerce site. Users can view, edit, ad
 
 GitHub Repository: https://github.com/snbarnhouse/ecommerce_backend 
 
-Walkthrough Video Part 1:
+Walkthrough Video Part 1 MySQL: https://drive.google.com/file/d/1b24S7KLIRnS3aBzIj4sVJNQe-DcqYm1d/view 
 
-Walkthrough Video Part 2: 
+Walkthrough Video Part 2 API Routes: https://drive.google.com/file/d/1s6lG3fM6_cG2J_kd221wa4jsO0EmfkV2/view 
+
+Walkthrough Video Part 3 Insomnia: 
 
 ![ecommerce_backend](https://user-images.githubusercontent.com/77131387/118829008-c3361b00-b88b-11eb-86c1-dd721e40e7ea.png)
 
