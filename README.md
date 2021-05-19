@@ -6,7 +6,9 @@ This assignment is the back end for an e-commerce site. Users can view, edit, ad
 
 GitHub Repository: https://github.com/snbarnhouse/ecommerce_backend 
 
-Walkthrough Video:
+Walkthrough Video Part 1:
+
+Walkthrough Video Part 2: 
 
 ![ecommerce_backend](https://user-images.githubusercontent.com/77131387/118829008-c3361b00-b88b-11eb-86c1-dd721e40e7ea.png)
 
