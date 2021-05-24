@@ -10,7 +10,7 @@ Walkthrough Video Part 1 MySQL: https://drive.google.com/file/d/1b24S7KLIRnS3aBz
 
 Walkthrough Video Part 2 API Routes: https://drive.google.com/file/d/1s6lG3fM6_cG2J_kd221wa4jsO0EmfkV2/view 
 
-Walkthrough Video Part 3 Insomnia: 
+Walkthrough Video Part 3 Insomnia: https://drive.google.com/file/d/1VQa8UwJ-ESabu3FPjcp2iJ1N3XlmDSpi/view 
 
 ![ecommerce_backend](https://user-images.githubusercontent.com/77131387/118829008-c3361b00-b88b-11eb-86c1-dd721e40e7ea.png)
 
